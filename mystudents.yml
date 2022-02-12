@@ -1,0 +1,22 @@
+--- 
+- mystudents:
+    - name: siva
+      phone: 34843
+      address: 
+       -doorno: 234
+       -street: kdi
+       -city: hks
+
+    - name: prasad
+      phone: 797
+      address: 
+       -doorno: kdj
+       -street: kdf
+       -city: iej
+
+    - name: ram
+      phone: 93434
+      address: kshi
+       -doorno: 453
+       -street: kdi
+       -city: ieo
